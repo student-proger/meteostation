@@ -1,2 +1,2 @@
 # meteostation
-Метеостанции Arduino/ESP
+Метеостанция на ESP32
